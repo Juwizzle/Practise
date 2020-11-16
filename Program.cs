@@ -12,7 +12,7 @@ namespace Facebook_lIkes_31st_Oct_2020_Chapter_6_Question_1
 
         {
             // Test for numbers of likes
-            Console.WriteLine(" Input the names of babes");
+            Console.WriteLine("Input the names of friends");
             var inputBabesname = Console.ReadLine();
             string[] words = inputBabesname.Split(',');
             if (words.Length == 1)
