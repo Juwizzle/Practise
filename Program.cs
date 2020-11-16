@@ -9,6 +9,7 @@ namespace Facebook_lIkes_31st_Oct_2020_Chapter_6_Question_1
     class Program
     {
         static void Main(string[] args)
+
         {
             // Test for numbers of likes
             Console.WriteLine(" Input the names of babes");
