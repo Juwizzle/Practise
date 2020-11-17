@@ -5,3 +5,10 @@ D:\Repos D Drive\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1\obj\Debug\Fac
 D:\Repos D Drive\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.csproj.CoreCompileInputs.cache
 D:\Repos D Drive\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.exe
 D:\Repos D Drive\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.pdb
+C:\Users\Juwon\source\repos\Practise\bin\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.exe.config
+C:\Users\Juwon\source\repos\Practise\bin\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.exe
+C:\Users\Juwon\source\repos\Practise\bin\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.pdb
+C:\Users\Juwon\source\repos\Practise\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.csprojAssemblyReference.cache
+C:\Users\Juwon\source\repos\Practise\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.csproj.CoreCompileInputs.cache
+C:\Users\Juwon\source\repos\Practise\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.exe
+C:\Users\Juwon\source\repos\Practise\obj\Debug\Facebook lIkes 31st Oct 2020 Chapter 6 Question 1.pdb

@@ -12,9 +12,9 @@ namespace Facebook_lIkes_31st_Oct_2020_Chapter_6_Question_1
 
         {
             // Test for numbers of likes
-            Console.WriteLine("Input the names of friends");
-            var inputBabesname = Console.ReadLine();
-            string[] words = inputBabesname.Split(',');
+            Console.WriteLine("Input the name of friends");
+            string inputName = Console.ReadLine();
+            string[] words = inputName.Split(',');
             if (words.Length == 1)
             {
                 Console.WriteLine(words[0] + " Likes your post ");
